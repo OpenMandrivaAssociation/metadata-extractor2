@@ -1,8 +1,10 @@
+%{?_javapackages_macros:%_javapackages_macros}
 %global majorversion 2
 Name:          metadata-extractor2
 Version:       2.6.4
-Release:       4%{?dist}
+Release:       4.1
 Summary:       Extracts EXIF, IPTC and XMP metadata from image files
+Group:         Development/Java
 License:       ASL 2.0
 URL:           http://drewnoakes.com/code/exif/
 Source0:       http://metadata-extractor.googlecode.com/files/metadata-extractor-%{version}-src.jar
