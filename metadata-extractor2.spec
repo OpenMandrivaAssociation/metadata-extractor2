@@ -6,7 +6,7 @@ Release:       4.3
 Summary:       Extracts EXIF, IPTC and XMP metadata from image files
 Group:         Development/Java
 License:       ASL 2.0
-URL:           http://drewnoakes.com/code/exif/
+URL:           https://drewnoakes.com/code/exif/
 Source0:       http://metadata-extractor.googlecode.com/files/metadata-extractor-%{version}-src.jar
 # originally taken from http://code.google.com/p/metadata-extractor/source/browse/pom.xml
 # fix javadoc task, jar maifest entries
